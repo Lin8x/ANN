@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
 
-# :cloud: &nbsp; A.N.N &nbsp; :cloud:
+# ![A.N.N](http://i66.tinypic.com/ih4jrb.png) &nbsp; A.N.N &nbsp; ![A.N.N](http://i66.tinypic.com/ih4jrb.png)
 <img src="https://steamuserimages-a.akamaihd.net/ugc/941708627458956135/42128EC5889AF5B6132F75AC33DF2991C55A8DCB/" width="100%" height="190">
 ------------------------------------------------------------------------
 
 ## About A.N.N
-
-![image of A.N.N logo](http://i66.tinypic.com/ih4jrb.png)
 
 **[Welcome to the Game II](https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/)** is an atmospheric horror / strategy / puzzle game that takes you into the world of the deep web, in search of the shadow web. 
 
