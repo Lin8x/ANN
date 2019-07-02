@@ -2,6 +2,6 @@
 Name=A.N.N
 Comment=Activate A.N.N
 Exec=/usr/bin/ANN
-Icon=/usr/share/ANNLOGO.png
+Icon=/usr/share/ann/ANNLOGO.png
 Terminal=false
 Type=Application
