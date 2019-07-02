@@ -28,9 +28,27 @@ Packages:
 
 ## How to Install
 
+1. Download manually from the Github page.
+###### or
+2. Type in your terminal:
+`git clone https://www.github.com/lin8x/ann`
+
 ------------------------------------------------------------------------
 
 ## How to Run
+
+Open your terminal and type:
+`chmod +x *`
+and
+`sudo ./setup.sh`
+<br><br>
+
+**Once Finished Setup** <br>
+1. Type and enter `ANN` to run the tool.
+###### or
+2. Open the application in your application menu
+###### or
+3. Open the application in your desktop
 
 ------------------------------------------------------------------------
 
