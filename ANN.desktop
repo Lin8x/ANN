@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=A.N.N
+Comment=Activate A.N.N
+Exec=/usr/bin/ANN
+Icon=/usr/share/ANNLOGO.png
+Terminal=false
+Type=Application
