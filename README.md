@@ -15,3 +15,31 @@ The game puts you to the task of saving a girl, Amalea, and how to get there. Yo
 *Check out more about the game [here](https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/)!*
 
 ------------------------------------------------------------------------
+
+## Requirements
+
+------------------------------------------------------------------------
+
+## How to Install
+
+------------------------------------------------------------------------
+
+## How to Run
+
+------------------------------------------------------------------------
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/Lin8x/ANN/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+See also the list of contributors who participated in this project.
+
+Please support the [creators](http://www.reflectstudios.com/) of **Welcome to the Game II**!
+
+------------------------------------------------------------------------
+
+## License
+
+This project is licensed under the GNU General Public License (v3.0) - see the [LICENSE.md](https://github.com/Lin8x/skyBREAK/blob/master/LICENSE) file for details.
+
+------------------------------------------------------------------------
