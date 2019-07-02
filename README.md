@@ -18,6 +18,12 @@ The game puts you to the task of saving a girl, Amalea, and how to get there. Yo
 
 ## Requirements
 
+Operating System:
+* Linux (Debian/Ubuntu Based: Preferably [Kali Linux](www.kali.org))
+
+Packages:
+* [Tor Browser](https://www.torproject.org/download/)
+
 ------------------------------------------------------------------------
 
 ## How to Install
