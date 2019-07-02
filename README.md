@@ -40,6 +40,6 @@ Please support the [creators](http://www.reflectstudios.com/) of **Welcome to th
 
 ## License
 
-This project is licensed under the GNU General Public License (v3.0) - see the [LICENSE.md](https://github.com/Lin8x/skyBREAK/blob/master/LICENSE) file for details.
+This project is licensed under the GNU General Public License (v3.0) - see the [LICENSE.md](https://github.com/Lin8x/ANN/blob/master/LICENSE) file for details.
 
 ------------------------------------------------------------------------
