@@ -47,8 +47,6 @@ and
 1. Type and enter `ANN` to run the tool.
 ###### or
 2. Open the application in your application menu
-###### or
-3. Open the application in your desktop
 
 ------------------------------------------------------------------------
 
